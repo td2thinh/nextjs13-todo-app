@@ -1,1 +1,2 @@
 # nextjs13-todo-app
+NEXTJS 13 TODO APP SQL DB PRISMA
